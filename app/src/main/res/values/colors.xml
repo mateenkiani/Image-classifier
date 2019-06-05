@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#448aff</color>
+    <color name="primaryLightColor">#83b9ff</color>
+    <color name="primaryDarkColor">#000000</color>
+    <color name="secondaryColor">#83b9ff</color>
+    <color name="secondaryLightColor">#83b9ff</color>
+    <color name="secondaryDarkColor">#000000</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="AimageViewColor">#066366</color>
+    <color name="BimageViewColor">#FD036F20</color>
+    <color name="CimageViewColor">#BF4227C5</color>
+    <color name="AiconViewColor">#000000</color>
+    <color name="BiconViewColor">#000000</color>
+    <color name="CiconViewColor">#000000</color>
+    <color name="ABg">#7A066366</color>
+    <color name="bBg">#86036F20</color>
+    <color name="CBg">#5C4227C5</color>
+
+</resources>

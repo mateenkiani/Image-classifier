@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_text_scanner"
+        android:icon="@drawable/ic_text_reader_mode_black_24dp"
+        android:title="@string/title_text_recognition"/>
+
+    <item
+        android:id="@+id/item_image_classifier"
+        android:icon="@drawable/ic_photos_black_24dp"
+        android:title="@string/title_image_recognition"/>
+
+    <item
+        android:id="@+id/item_barcode_reader"
+        android:icon="@drawable/ic_view_quilt_black_24dp"
+        android:title="@string/title_barCode_Scanner"/>
+
+</menu>
